@@ -1,0 +1,101 @@
+Hospital_ID,Hospital_Name,City,Department,Rating
+H-001,Regional Medical Center,Los Angeles,Pediatrics,2
+H-002,Regional Medical Center,New York,Orthopedics,4
+H-003,City Clinic,San Jose,Orthopedics,2
+H-004,Specialist Hospital,New York,Surgery,5
+H-005,City Clinic,Houston,Neurology,1
+H-006,Community Health Center,Phoenix,Orthopedics,4
+H-007,Specialist Hospital,Philadelphia,Emergency,1
+H-008,Specialist Hospital,San Jose,Gastroenterology,5
+H-009,Regional Medical Center,San Jose,Maternity,5
+H-010,Community Health Center,Los Angeles,Neurology,2
+H-011,Community Health Center,Chicago,Gastroenterology,5
+H-012,Regional Medical Center,San Diego,Maternity,4
+H-013,Community Health Center,Los Angeles,Radiology,1
+H-014,City Clinic,San Diego,Pediatrics,3
+H-015,City Clinic,Los Angeles,Surgery,2
+H-016,Regional Medical Center,Philadelphia,Neurology,5
+H-017,City Clinic,San Jose,Orthopedics,5
+H-018,General Hospital,San Antonio,Surgery,4
+H-019,City Clinic,Dallas,Neurology,4
+H-020,Community Health Center,San Diego,Orthopedics,2
+H-021,Regional Medical Center,Philadelphia,Orthopedics,4
+H-022,Regional Medical Center,Los Angeles,Orthopedics,4
+H-023,City Clinic,San Diego,Maternity,4
+H-024,City Clinic,Philadelphia,Oncology,2
+H-025,Community Health Center,Chicago,Radiology,2
+H-026,City Clinic,Chicago,Oncology,3
+H-027,Community Health Center,Chicago,Orthopedics,4
+H-028,Specialist Hospital,Los Angeles,Emergency,4
+H-029,City Clinic,Dallas,Gastroenterology,2
+H-030,Regional Medical Center,New York,Emergency,1
+H-031,Regional Medical Center,Phoenix,Emergency,2
+H-032,General Hospital,Dallas,Neurology,2
+H-033,General Hospital,New York,Emergency,5
+H-034,Specialist Hospital,Chicago,Radiology,4
+H-035,Community Health Center,San Diego,Orthopedics,5
+H-036,Community Health Center,Los Angeles,Radiology,3
+H-037,General Hospital,San Antonio,Pediatrics,4
+H-038,Regional Medical Center,Chicago,Orthopedics,3
+H-039,Community Health Center,San Jose,Maternity,2
+H-040,General Hospital,Phoenix,Orthopedics,5
+H-041,City Clinic,San Antonio,Emergency,5
+H-042,Community Health Center,San Antonio,Radiology,3
+H-043,General Hospital,Philadelphia,Maternity,1
+H-044,General Hospital,Houston,Gastroenterology,5
+H-045,Community Health Center,Chicago,Gastroenterology,4
+H-046,City Clinic,Houston,Pediatrics,5
+H-047,General Hospital,Phoenix,Maternity,4
+H-048,Specialist Hospital,Los Angeles,Cardiology,1
+H-049,General Hospital,New York,Pediatrics,2
+H-050,Regional Medical Center,Chicago,Orthopedics,3
+H-051,City Clinic,Los Angeles,Cardiology,4
+H-052,Community Health Center,San Antonio,Emergency,3
+H-053,City Clinic,Phoenix,Neurology,5
+H-054,Specialist Hospital,San Jose,Maternity,1
+H-055,City Clinic,San Diego,Gastroenterology,2
+H-056,Specialist Hospital,Los Angeles,Oncology,3
+H-057,General Hospital,Phoenix,Oncology,3
+H-058,Specialist Hospital,San Diego,Surgery,3
+H-059,Regional Medical Center,San Jose,Pediatrics,3
+H-060,City Clinic,New York,Gastroenterology,4
+H-061,Community Health Center,New York,Neurology,1
+H-062,Specialist Hospital,Philadelphia,Maternity,5
+H-063,Specialist Hospital,New York,Surgery,1
+H-064,Community Health Center,San Jose,Radiology,2
+H-065,General Hospital,Dallas,Pediatrics,4
+H-066,City Clinic,New York,Radiology,4
+H-067,Specialist Hospital,San Jose,Emergency,3
+H-068,General Hospital,Phoenix,Neurology,4
+H-069,General Hospital,Los Angeles,Radiology,4
+H-070,Community Health Center,Houston,Maternity,4
+H-071,City Clinic,San Antonio,Radiology,1
+H-072,Specialist Hospital,New York,Orthopedics,1
+H-073,City Clinic,New York,Radiology,1
+H-074,General Hospital,Los Angeles,Emergency,1
+H-075,Regional Medical Center,Los Angeles,Maternity,4
+H-076,General Hospital,Los Angeles,Maternity,3
+H-077,Regional Medical Center,Houston,Radiology,5
+H-078,Specialist Hospital,San Antonio,Cardiology,2
+H-079,Regional Medical Center,New York,Surgery,2
+H-080,Community Health Center,San Diego,Surgery,5
+H-081,City Clinic,San Diego,Surgery,2
+H-082,City Clinic,Philadelphia,Neurology,5
+H-083,General Hospital,Dallas,Radiology,2
+H-084,Community Health Center,San Diego,Emergency,4
+H-085,Specialist Hospital,San Jose,Cardiology,3
+H-086,Regional Medical Center,Phoenix,Cardiology,5
+H-087,General Hospital,Philadelphia,Oncology,4
+H-088,General Hospital,Dallas,Surgery,1
+H-089,General Hospital,Chicago,Emergency,4
+H-090,Specialist Hospital,Dallas,Gastroenterology,5
+H-091,Community Health Center,New York,Surgery,2
+H-092,City Clinic,San Diego,Cardiology,4
+H-093,General Hospital,Philadelphia,Emergency,1
+H-094,General Hospital,Phoenix,Surgery,4
+H-095,Regional Medical Center,San Antonio,Orthopedics,5
+H-096,Community Health Center,New York,Cardiology,4
+H-097,Regional Medical Center,New York,Gastroenterology,5
+H-098,Community Health Center,San Diego,Orthopedics,2
+H-099,Specialist Hospital,San Jose,Orthopedics,5
+H-100,City Clinic,San Jose,Cardiology,2
